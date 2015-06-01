@@ -1,0 +1,32 @@
+{
+  "name": "generator-nextasy",
+  "version": "1.0.0",
+  "description": "Yeoman generator",
+  "license": "MIT",
+  "main": "app/index.js",
+  "repository": "marcuss/generator-nextasy",
+  "author": {
+    "name": "Marcus S.",
+    "email": "m4rkuz@gmail.com",
+    "url": "https://github.com/marcuss"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^0.19.0",
+    "chalk": "^1.0.0",
+    "yosay": "^1.0.2"
+  },
+  "devDependencies": {
+    "mocha": "*",
+     "nsp": "*",
+     "yeoman-assert": "^1.0.0"
+  }
+}
