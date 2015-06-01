@@ -1,6 +1,6 @@
 # generator-nextasy [![Build Status](https://secure.travis-ci.org/marcuss/generator-nextasy.png?branch=master)](https://travis-ci.org/marcuss/generator-nextasy)
 
-> [Yeoman](http://yeoman.io) generator
+> A [Yeoman](http://yeoman.io) generator
 
 
 ## Getting Started
